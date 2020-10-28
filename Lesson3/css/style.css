@@ -1,0 +1,26 @@
+*{
+  background-image:url(../images/fon.jpg);
+
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+
+
+}
+h1{
+  text-align: center;
+}
+h2{
+  font-size:40px;
+  text-align: center;
+}
+.Lviv_text_strong{
+  font-size:25px;
+  font-weight: bold;
+}
+.underlinetxt{
+  text-decoration: underline;
+}
+.crossout_txt{
+  text-decoration: line-through;
+}
