@@ -1,0 +1,14 @@
+.container {
+  border-style: ridge;
+  border-color: gray;
+  width: 500px;
+  height: 300px;
+}
+
+.target {
+  color: wheat;
+  background-color: teal;
+
+  width: 100px;
+  height: 100px;
+}
